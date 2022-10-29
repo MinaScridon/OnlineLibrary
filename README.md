@@ -2,7 +2,7 @@
 
 This is a  project about OnlineLibrary where the technologies used are Hibernate and MySQL. The Book class has a relationship one-to-many to Author class. And the PublishingHouse class has a relationship one-to-one to Book class. You can do different things like:
 
-    1. Insert an authoror a book or a publishing house.
+    1. Insert an author or a book or a publishing house.
     2. Insert the name of the book whose authors you want to add.
     3. Insert the name of the publishing house to which you want to add books.
     4. Display a specific book found by its number of pages.
