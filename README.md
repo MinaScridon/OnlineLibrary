@@ -1,10 +1,4 @@
 # OnlineLibrary
 
-This project is a bookstore where you can:
+This is a  project about OnlineLibrary where the technologies used are Hibernate and MySQL. The Book class has a relationship one-to-many to Author class. And the class Book has a relationship one-to-one to PublishingHouse class. You can do different things like:
 
-  1. Add an author, a book or a publishing house. 
-  2. Update an author, a book or a publishing house. 
-  3. Search for an author, a book or a publishing house.  
-  4. Remove an author, a book or a publishing house.
-
-The technologies used are hibernate and mySQL.
