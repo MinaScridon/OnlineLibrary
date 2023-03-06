@@ -1,6 +1,8 @@
 # OnlineLibrary
 
-This is a  project about OnlineLibrary where the technologies used are Hibernate and MySQL. The Book class has a relationship one-to-many to Author class. And the PublishingHouse class has a relationship one-to-one to Book class. You can do different things like:
+This is a back-end project about an online library using the following technologies: Java, Hibernate and MySQL. 
+The Book class has a relationship one-to-many to Author class. And the PublishingHouse class has a relationship one-to-one to Book class. 
+You can do different things like:
 
     1. Insert an author or a book or a publishing house.
     2. Insert the name of the book whose authors you want to add.
@@ -16,6 +18,5 @@ This is a  project about OnlineLibrary where the technologies used are Hibernate
     12. Update an author or book or publishing house by modifying all its class' attributes.
     13. Erase a publishing house.
     14. Erase an author/s found by age.
-    15. Erase a book/s found by a specific status. 
-
+    15. Erase a book/s found by a specific status.
 
